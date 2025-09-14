@@ -1,0 +1,5 @@
+train: C:/Users/USER/OneDrive/Desktop/Research project/pathhole detection/dataset/images/train
+val: C:/Users/USER/OneDrive/Desktop/Research project/pathhole detection/dataset/images/test
+
+nc: 1
+names: ['pothole']
